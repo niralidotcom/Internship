@@ -1,0 +1,60 @@
+#head
+{
+	width:1350px;
+	height:90px;
+	background-color:#0000ff;
+	font-size:80;
+	text-align:center;
+}
+#menu
+{
+	width:1350px;
+	height:40px;
+	background-color:#333;
+	text-shadow:#000 1px 1px 1px;
+}
+#menu ul
+{
+	display:inline;
+}
+#menu li
+{
+	display:inline;
+	padding-left:100;
+	padding-right:150;
+	padding-top:50;
+	
+}
+#menu a
+{
+	font-family:calibri;
+	font-size:18px;
+	color:#FFF;
+	text-decoration:none;
+}
+#menu a:hover
+{
+	color:#F00;
+}
+#images
+{
+	width:1350px;
+	height:450px;
+	background-repeat:no-repeat;
+	background-image:url(images/d1.jpg);
+}
+#con
+{
+	width:1350px;
+	height:40px;
+	background-color:slategray;
+	font-size:30px;
+	text-align:center;
+}
+#footer
+{
+	width:1350px;
+	height:22px;
+	background-color:royalblue;
+	font-size:20;
+}
